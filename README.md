@@ -10,7 +10,7 @@ Resources to aid your learning of LLM finetuning.  Guides for starters, intermed
 
 
 ## Reading Materials
-| Video | Description | 
+| Content / Blog | Description | 
 | ----------- | ----------- | 
 | [RAG vs Finetuning](https://towardsdatascience.com/rag-vs-finetuning-which-is-the-best-tool-to-boost-your-llm-application-94654b1eaba7) | RAG vs Finetuning — Which Is the Best Tool to Boost Your LLM Application? The definitive guide for choosing the right method for your use case | 
 | [RAG, Fine-tuning or Both?](https://www.matrixflows.com/blog/retrieval-augmented-generation-rag-finetuning-hybrid-framework-for-choosing-right-strategy) | RAG, Fine-tuning or Both? A Complete Framework for Choosing the Right Strategy | 
