@@ -1,9 +1,9 @@
 # Resources to guide your LLM finetuning quest
 Resources to aid your learning of LLM finetuning.  Guides for starters, intermediate and advamced users.
 
-- [Reading material] (## Reading material)
+- [Reading-material] (## Reading-material)
 - [Videos] (## Videos)
-- [Code Samples] (## Code Samples)
+- [Code-Samples] (## Code-Samples)
 - [Whitepapers] (## Whitepapers)
 
 ---
