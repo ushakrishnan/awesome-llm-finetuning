@@ -1,12 +1,17 @@
 # Resources to guide your LLM finetuning quest
 Resources to aid your learning of LLM finetuning.  Guides for starters, intermediate and advamced users.
 
-[TOC]
+- [Reading material] (## Reading material)
+- [Videos] (## Videos)
+- [Code Samples] (## Code Samples)
+- [Whitepapers] (## Whitepapers)
 
 ---
 
+
 ## Reading material
 - RAG vs Finetuning [Blog 1] (https://www.google.com)
+
 
 ## Videos
 
@@ -15,7 +20,6 @@ Resources to aid your learning of LLM finetuning.  Guides for starters, intermed
 | video 1 | detail for the video | 
 | video 2 | detail for the video | 
 
----
 
 ## Code Samples
 
@@ -24,7 +28,6 @@ Resources to aid your learning of LLM finetuning.  Guides for starters, intermed
 | Code 1 | detail for the code | 
 | Code 2 | detail for the code | 
 
----
 
 ## Whitepapers
 
@@ -33,5 +36,5 @@ Resources to aid your learning of LLM finetuning.  Guides for starters, intermed
 | whitepaper 1 | detail for the video | 
 | whitepaper 2 | detail for the video | 
 
----
+
 
