@@ -18,6 +18,7 @@ Resources to aid your learning of LLM finetuning.  Guides for starters, intermed
 | [Parameter-Efficient Fine-Tuning (PEFT)](https://huggingface.co/docs/peft/index) | PEFT methods only fine-tune a small number of (extra) model parameters, significantly decreasing computational and storage costs because fine-tuning large-scale PLMs is prohibitively costly. |
 | [A guide to parameter efficient fine-tuning (PEFT)](https://www.leewayhertz.com/parameter-efficient-fine-tuning/) | This article will discuss the PEFT method in detail, exploring its benefits and how it has become an efficient way to fine-tune LLMs on downstream tasks.|
 | [PEFT: Parameter-Efficient Fine-Tuning of Billion-Scale Models on Low-Resource Hardware]() | PEFT approaches enable you to get performance comparable to full fine-tuning while only having a small number of trainable parameters.|
+| [Ludwig - Declarative deep learning framework](https://ludwig.ai/latest/)  <h6>_[Framework code](https://github.com/ludwig-ai/ludwig)_</h6> | Declarative deep learning framework built for scale and efficiency. Ludwig is a low-code framework for building custom AI models like LLMs and other deep neural networks. Learn when and how to use Ludwig! |
 
 
 
