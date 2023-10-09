@@ -14,19 +14,19 @@ Resources to aid your learning of LLM finetuning.  Guides for starters, intermed
 | ----------- | ----------- | 
 | [RAG vs Finetuning](https://towardsdatascience.com/rag-vs-finetuning-which-is-the-best-tool-to-boost-your-llm-application-94654b1eaba7) | RAG vs Finetuning — Which Is the Best Tool to Boost Your LLM Application? The definitive guide for choosing the right method for your use case | 
 | [RAG, Fine-tuning or Both?](https://www.matrixflows.com/blog/retrieval-augmented-generation-rag-finetuning-hybrid-framework-for-choosing-right-strategy) | RAG, Fine-tuning or Both? A Complete Framework for Choosing the Right Strategy | 
-| [Optimizing LLMs](https://blog.lancedb.com/optimizing-llms-a-step-by-step-guide-to-fine-tuning-with-peft-and-qlora-22eddd13d25b) <h6>_[Accompanying code](https://pbase.ai/FineTuneLlama)_</h6><h6>_Good read_</h6>| Optimizing LLMs: A Step-by-Step Guide to Fine-Tuning with PEFT and QLoRA (A Practical Guide to Fine-Tuning LLM using QLora) |
+| [Optimizing LLMs](https://blog.lancedb.com/optimizing-llms-a-step-by-step-guide-to-fine-tuning-with-peft-and-qlora-22eddd13d25b) <h6>_[Accompanying code](https://pbase.ai/FineTuneLlama)_</h6>| Optimizing LLMs: A Step-by-Step Guide to Fine-Tuning with PEFT and QLoRA (A Practical Guide to Fine-Tuning LLM using QLora) |
 | [Parameter-Efficient Fine-Tuning (PEFT)](https://huggingface.co/docs/peft/index) | PEFT methods only fine-tune a small number of (extra) model parameters, significantly decreasing computational and storage costs because fine-tuning large-scale PLMs is prohibitively costly. |
-| [A guide to parameter efficient fine-tuning (PEFT)](https://www.leewayhertz.com/parameter-efficient-fine-tuning/) <h6>_Good read_</h6>| This article will discuss the PEFT method in detail, exploring its benefits and how it has become an efficient way to fine-tune LLMs on downstream tasks.|
+| [A guide to parameter efficient fine-tuning (PEFT)](https://www.leewayhertz.com/parameter-efficient-fine-tuning/) | This article will discuss the PEFT method in detail, exploring its benefits and how it has become an efficient way to fine-tune LLMs on downstream tasks.|
 
 
 
 ## Videos
 | Video | Description | 
 | ----------- | ----------- | 
-| [Efficient Fine-Tuning for Llama-v2-7b on a Single GPU](https://www.youtube.com/watch?v=g68qlo9Izf0) <h6>_Suggested watch_</h6> | This session will equip ML engineers to unlock the capabilities of LLMs like Llama-2 on for their own projects.  
+| [Efficient Fine-Tuning for Llama-v2-7b on a Single GPU](https://www.youtube.com/watch?v=g68qlo9Izf0) | This session will equip ML engineers to unlock the capabilities of LLMs like Llama-2 on for their own projects.  
 | [Efficiently Build Custom LLMs on Your Data with Open-source Ludwig](https://www.youtube.com/watch?v=NAyKpcOdHLE)  <h6>_[Accompanying code](https://pbase.ai/3YDMrcz)_</h6> | detail for the video | 
 | [Introduction to Ludwig - multi-model sample](https://www.youtube.com/watch?v=K7yLtB2yaPg) <h6>_[Accompanying code](https://colab.research.google.com/drive/1jJcikGm8lSZtWIfw5yAWHmQuALPsU_4p?usp=sharing)_</h6>| Train and Deploy Amazing Models in Less Than 6 Lines of Code with Ludwig AI|
-|[Ludwig: A Toolbox for Training and Testing Deep Learning Models without Writing Code]() <h6>_Beginner friendly_</h6> | Ludwig, an open source, deep learning toolbox built on top of TensorFlow that allows users to train and test machine learning models without writing code. |
+|[Ludwig: A Toolbox for Training and Testing Deep Learning Models without Writing Code]() | Ludwig, an open source, deep learning toolbox built on top of TensorFlow that allows users to train and test machine learning models without writing code. |
 
 
 ## Code Samples
