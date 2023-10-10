@@ -1,6 +1,17 @@
 # Resources to guide your LLM finetuning quest
 Resources to aid your learning of LLM finetuning.  Guides for starters, intermediate and advamced users.
 
+
+## Table of contents
+
+> **Shortcut to learning media:**
+> - [Is (efficient) LLM Finetuning the key to production ready solutions?](#is-efficient-llm-finetuning-the-key-to-production-ready-solutions)
+> - [Reading Materials](#reading-materials)
+> - [Videos](#videos)
+> - [Code Samples](#code-samples)
+> - [Whitepapers](#whitepapers)
+
+
 ## Is (efficient) LLM Finetuning the key to production ready solutions?
 
 As POCs and POEs mature to become production ready platforms, the role of fine-tuning (together with RAG in many cases) becomes key to successful production ready LLM AI platforms / solutions.  Finetuning gets to be come key and efficient finetuning the pinnacle of production success. 
@@ -23,15 +34,6 @@ Combine the pattern from Debmalya (gem 1) with true and tested MLOps / CD4ML (ge
 My bet from architecture patterns is pattern 3, but too early to call!  Efficient Fine-Tuning will be the key to production ready cost effective, domain relevant solutions and platform.  And the need to learn and train ourselves with finetuning which may be a preferred way of enterprise / production ready cost effective LLM solutions and platforms surfaces to the top!
 
 And to be ready for this upcoming challenge, here is a collection of resources that can help you get a quickstart. 
-
-
-## Table of contents
-
-> **Shortcut to media of choice:**
-> - [Reading Materials](#reading-materials)
-> - [Videos](#videos)
-> - [Code Samples](#code-samples)
-> - [Whitepapers](#whitepapers)
 
 
 ## Reading Materials
