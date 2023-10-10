@@ -1,7 +1,7 @@
 # Resources to guide your LLM finetuning quest
 Resources to aid your learning of LLM finetuning.  Guides for starters, intermediate and advamced users.
 
-## Is (effiient) LLM Finetuning the key to production ready solutions?:
+## Is (efficient) LLM Finetuning the key to production ready solutions?:
 
 As POCs and POEs mature to become production ready platforms, the role of fine-tuning (together with RAG in many cases) becomes key to successful production ready LLM AI platforms / solutions.  Finetuning gets to be come key and efficient finetuning the pinnacle of production success. 
 
