@@ -1,6 +1,29 @@
 # Resources to guide your LLM finetuning quest
 Resources to aid your learning of LLM finetuning.  Guides for starters, intermediate and advamced users.
 
+## Is (effiient) LLM Finetuning the key to production ready solutions?:
+
+As POCs and POEs mature to become production ready platforms, the role of fine-tuning (together with RAG in many cases) becomes key to successful production ready LLM AI platforms / solutions.  Finetuning gets to be come key and efficient finetuning the pinnacle of production success. 
+
+Two articles crisply shares my opinion.  Rather than rehashing, here are the gems - 
+
+1. [Generative AI — LLMOps Architecture Patterns](https://medium.datadriveninvestor.com/generative-ai-llmops-deployment-architecture-patterns-6d45d1668aba)
+ Debmalya Biswas breaksdown possible architecture patterns into -
+   - Black-box LLM APIs
+   - Enterprise Apps in LLM App Store
+   - Enterprise LLMOps — LLM fine-tuning
+   - Multi-agent LLM Orchestration
+[![LLM Architecture Patterns](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*qsDpstcc_scf_LDlCcpH-A.png)](https://medium.datadriveninvestor.com/generative-ai-llmops-deployment-architecture-patterns-6d45d1668aba)
+
+2. [Continuous Delivery for Machine Learning](https://martinfowler.com/articles/cd4ml.html) Combine the pattern with true and tested MLOps for managing enterprise ready LLMOps platforms and solutions.
+   [![Continuous delivery for ML](https://martinfowler.com/articles/cd4ml/cd4ml-end-to-end.png)](https://martinfowler.com/articles/cd4ml.html)
+
+My bet from architecture patterns is pattern 3, but too early to call!  And this causes the need to learn and train ourselves with finetuning which may be a preferred way of enterprise / production ready cost effective LLM solutions and platforms.
+
+And to be ready for this upcoming challenge, here is a collection of resources that can help you get a quickstart. 
+
+
+## Table of contents
 
 > **Shortcut to media of choice:**
 > - [Reading Materials](#reading-materials)
