@@ -15,8 +15,10 @@ Two articles crisply shares my opinion.  Rather than rehashing, here are the gem
    - Multi-agent LLM Orchestration
 [![LLM Architecture Patterns](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*qsDpstcc_scf_LDlCcpH-A.png)](https://medium.datadriveninvestor.com/generative-ai-llmops-deployment-architecture-patterns-6d45d1668aba)
 
-2. [Continuous Delivery for Machine Learning](https://martinfowler.com/articles/cd4ml.html) Combine the pattern with true and tested MLOps for managing enterprise ready LLMOps platforms and solutions.
+1. [Continuous Delivery for Machine Learning](https://martinfowler.com/articles/cd4ml.html) Danilo Sato, Arif Wider, Christoph Windheuser shares CD4ML which delves deep into how to productionize such models. 
    [![Continuous delivery for ML](https://martinfowler.com/articles/cd4ml/cd4ml-end-to-end.png)](https://martinfowler.com/articles/cd4ml.html)
+
+Combine the pattern from Debmalya (gem 1) with true and tested MLOps / CD4ML (gem 2) for managing enterprise ready LLMOps platforms and solutions.
 
 My bet from architecture patterns is pattern 3, but too early to call!  Efficient Fine-Tuning will be the key to production ready cost effective, domain relevant solutions and platform.  And the need to learn and train ourselves with finetuning which may be a preferred way of enterprise / production ready cost effective LLM solutions and platforms surfaces to the top!
 
