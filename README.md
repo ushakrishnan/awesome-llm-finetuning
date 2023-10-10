@@ -1,4 +1,4 @@
-# Resources to guide your LLM finetuning learning journey
+# LLM finetuning learning journey quickstart resources
 Resources to aid your learning of LLM finetuning learning journey.  Guides for starters, intermediate and advamced users. And before you do that, read why efficient finetuning is going to be the key for production read, cost efficient, domain relevant LLMs.
 
 
