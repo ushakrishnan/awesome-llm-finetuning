@@ -18,7 +18,7 @@ Two articles crisply shares my opinion.  Rather than rehashing, here are the gem
 2. [Continuous Delivery for Machine Learning](https://martinfowler.com/articles/cd4ml.html) Combine the pattern with true and tested MLOps for managing enterprise ready LLMOps platforms and solutions.
    [![Continuous delivery for ML](https://martinfowler.com/articles/cd4ml/cd4ml-end-to-end.png)](https://martinfowler.com/articles/cd4ml.html)
 
-My bet from architecture patterns is pattern 3, but too early to call!  And this causes the need to learn and train ourselves with finetuning which may be a preferred way of enterprise / production ready cost effective LLM solutions and platforms.
+My bet from architecture patterns is pattern 3, but too early to call!  Efficient Fine-Tuning will be the key to production ready cost effective, domain relevant solutions and platform.  And the need to learn and train ourselves with finetuning which may be a preferred way of enterprise / production ready cost effective LLM solutions and platforms surfaces to the top!
 
 And to be ready for this upcoming challenge, here is a collection of resources that can help you get a quickstart. 
 
