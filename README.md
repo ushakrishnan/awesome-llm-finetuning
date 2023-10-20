@@ -29,6 +29,8 @@ Two articles crisply shares my opinion.  Rather than rehashing, here are the gem
 1. [Continuous Delivery for Machine Learning](https://martinfowler.com/articles/cd4ml.html) Danilo Sato, Arif Wider, Christoph Windheuser shares CD4ML which delves deep into how to productionize such models. 
    [![Continuous delivery for ML](https://martinfowler.com/articles/cd4ml/cd4ml-end-to-end.png)](https://martinfowler.com/articles/cd4ml.html)
 
+   Also check out the collection of information on how to productionize ML.  The biggest jump is from POC to Productionizing, which requires a lot more planning, thoughtful workflows and of course automation - [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning)
+
 Combine the pattern from Debmalya (gem 1) with true and tested MLOps / CD4ML (gem 2) for managing enterprise ready LLMOps platforms and solutions.
 
 My bet from architecture patterns is pattern 3, but too early to call!  Efficient Fine-Tuning will be the key to production ready cost effective, domain relevant solutions and platform.  And the need to learn and train ourselves with finetuning which may be a preferred way of enterprise / production ready cost effective LLM solutions and platforms surfaces to the top!
@@ -56,6 +58,7 @@ And to be ready for this upcoming challenge, here is a collection of resources t
 | [Efficiently Build Custom LLMs on Your Data with Open-source Ludwig](https://www.youtube.com/watch?v=NAyKpcOdHLE)  <h6>_[Accompanying code](https://pbase.ai/3YDMrcz)_</h6> | detail for the video | 
 | [Introduction to Ludwig - multi-model sample](https://www.youtube.com/watch?v=K7yLtB2yaPg) <h6>_[Accompanying code](https://colab.research.google.com/drive/1jJcikGm8lSZtWIfw5yAWHmQuALPsU_4p?usp=sharing)_</h6>| Train and Deploy Amazing Models in Less Than 6 Lines of Code with Ludwig AI|
 |[Ludwig: A Toolbox for Training and Testing Deep Learning Models without Writing Code](https://huggingface.co/blog/peft) <h6>_[Blog post](https://huggingface.co/blog/peft)_</h6> <h6>_[Accompanying code](https://colab.research.google.com/drive/14xo6sj4dARk8lXZbOifHEn1f_70qNAwy?usp=sharing)_</h6>| Ludwig, an open source, deep learning toolbox built on top of TensorFlow that allows users to train and test machine learning models without writing code. |
+| [Build Your Own LLM in Less Than 10 Lines of YAML (Predibase)](https://www.youtube.com/watch?v=efMQgwM9dFY) | Did you know you can start trying [Ludwig OpenSource](https://ludwig.ai/) on Azure How you can get started building your own LLM - How declarative ML simplifies model building and training; How to use off-the-shelf pretrained LLMs with Ludwig - the open-source declarative ML framework from Uber ; How to rapidly fine-tune an LLM on your data in less than 10 lines of code with Ludwig using parameter efficient methods, deepspeed and Ray |
 
 
 ## Code Samples
@@ -67,7 +70,8 @@ And to be ready for this upcoming challenge, here is a collection of resources t
 | [Ludwig 0.8: Hands On Webinar](https://colab.research.google.com/drive/1lB4ALmEyvcMycE3Mlnsd7I3bc0zxvk39#scrollTo=xb1aLHZRFrwA) <h6>[Webinar video](https://www.youtube.com/watch?v=NAyKpcOdHLE)</h6> | How integrations with Deepspeed and parameter-efficient fine-tuning techniques make training LLMs with Ludwig fast and easy |
 | [Fine-tuning LLMs with PEFT and LoRA](https://www.youtube.com/watch?v=Us5ZFp16PaU) <h6>_[Accompanying code](https://colab.research.google.com/drive/14xo6sj4dARk8lXZbOifHEn1f_70qNAwy?usp=sharing)_</h6> <h6>_[Blog post](https://huggingface.co/blog/peft)_</h6>| PEFT: Parameter-Efficient Fine-Tuning of Billion-Scale Models on Low-Resource Hardware |
 | [Fine-tuning OpenLLaMA-7B with QLoRA for instruction following](https://github.com/georgesung/llm_qlora/tree/main) <h6>_[Accompanying code](https://colab.research.google.com/drive/1IlpeofYD9EU6dNHyKKObZhIzkBMyqlUS?usp=sharing)_</h6> <h6>_[Blog post](https://georgesung.github.io/ai/qlora-ift/)_</h6>| Tried and tested sample - With the availability of powerful base LLMs (e.g. LLaMA, Falcon, MPT, etc.) and instruction tuning datasets, along with the development of LoRA and QLoRA, instruction fine-tuning a base model is increasingly accessible to more people/organizations.| 
-
+| [curated list of the best LLMOps tools for developers](https://github.com/tensorchord/awesome-llmops) | An awesome & curated list of the best LLMOps tools for developers. | 
+| [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning) <h6>_[Additional video](https://www.youtube.com/watch?v=Ynb6X0KZKxY)_</h6> | MLOps tools to scale your production machine learning - This repository contains a curated list of awesome open source libraries that will help you deploy, monitor, version, scale and secure your production machine learning |
 
 ## Whitepapers
 | Sample | Description |
