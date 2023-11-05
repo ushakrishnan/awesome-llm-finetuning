@@ -59,6 +59,8 @@ And to be ready for this upcoming challenge, here is a collection of resources t
 | [Introduction to Ludwig - multi-model sample](https://www.youtube.com/watch?v=K7yLtB2yaPg) <h6>_[Accompanying code](https://colab.research.google.com/drive/1jJcikGm8lSZtWIfw5yAWHmQuALPsU_4p?usp=sharing)_</h6>| Train and Deploy Amazing Models in Less Than 6 Lines of Code with Ludwig AI|
 |[Ludwig: A Toolbox for Training and Testing Deep Learning Models without Writing Code](https://huggingface.co/blog/peft) <h6>_[Blog post](https://huggingface.co/blog/peft)_</h6> <h6>_[Accompanying code](https://colab.research.google.com/drive/14xo6sj4dARk8lXZbOifHEn1f_70qNAwy?usp=sharing)_</h6>| Ludwig, an open source, deep learning toolbox built on top of TensorFlow that allows users to train and test machine learning models without writing code. |
 | [**(Beginner)** Build Your Own LLM in Less Than 10 Lines of YAML (Predibase)](https://www.youtube.com/watch?v=efMQgwM9dFY) | Did you know you can start trying [Ludwig OpenSource](https://ludwig.ai/) on Azure How you can get started building your own LLM - How declarative ML simplifies model building and training; How to use off-the-shelf pretrained LLMs with Ludwig - the open-source declarative ML framework from Uber ; How to rapidly fine-tune an LLM on your data in less than 10 lines of code with Ludwig using parameter efficient methods, deepspeed and Ray |
+| [**(Beginner)** To Fine Tune or Not Fine Tune? That is the question](https://www.youtube.com/watch?v=0Jo-z-MFxJs) | Ever wondered about the balance between the benefits and drawbacks of fine-tuning models? Curious about when it's the right move for customers? Look no further; we've got you covered! |
+
 
 
 ## Code Samples
