@@ -49,6 +49,7 @@ And to be ready for this upcoming challenge, here is a collection of resources t
 | [PEFT: Parameter-Efficient Fine-Tuning of Billion-Scale Models on Low-Resource Hardware](https://huggingface.co/blog/peft) | PEFT approaches enable you to get performance comparable to full fine-tuning while only having a small number of trainable parameters.|
 | [Ludwig - Declarative deep learning framework](https://ludwig.ai/latest/)  <h6>_[Framework code](https://github.com/ludwig-ai/ludwig)_</h6> <h6>_[Code sample](https://colab.research.google.com/drive/1c3AO8l_H6V_x37RwQ8V7M6A-RmcBf2tG?usp=sharing)_</h6>| Declarative deep learning framework built for scale and efficiency. Ludwig is a low-code framework for building custom AI models like LLMs and other deep neural networks. Learn when and how to use Ludwig! |
 | [Fine-tuning OpenLLaMA-7B with QLoRA for instruction following](https://georgesung.github.io/ai/qlora-ift/) <h6>_[Accompanying code](https://colab.research.google.com/drive/1IlpeofYD9EU6dNHyKKObZhIzkBMyqlUS?usp=sharing)_</h6> <h6>_[Full repo](https://github.com/georgesung/llm_qlora/tree/main)_</h6>| Tried and tested sample - With the availability of powerful base LLMs (e.g. LLaMA, Falcon, MPT, etc.) and instruction tuning datasets, along with the development of LoRA and QLoRA, instruction fine-tuning a base model is increasingly accessible to more people/organizations.| 
+| [Personal Copilot: Train Your Own Coding Assistant](https://huggingface.co/blog/personal-copilot) <h6>_[Code sample](https://github.com/pacman100/DHS-LLM-Workshop/tree/main/personal_copilot/training)_</h6> | In this blog post we show how we created HugCoder, a code LLM fine-tuned on the code contents from the public repositories of the huggingface GitHub organization.  |
 
 
 ## Videos
@@ -74,6 +75,9 @@ And to be ready for this upcoming challenge, here is a collection of resources t
 | [**(Beginner)** Fine-tuning OpenLLaMA-7B with QLoRA for instruction following](https://github.com/georgesung/llm_qlora/tree/main) <h6>_[Accompanying code](https://colab.research.google.com/drive/1IlpeofYD9EU6dNHyKKObZhIzkBMyqlUS?usp=sharing)_</h6> <h6>_[Blog post](https://georgesung.github.io/ai/qlora-ift/)_</h6>| Tried and tested sample - With the availability of powerful base LLMs (e.g. LLaMA, Falcon, MPT, etc.) and instruction tuning datasets, along with the development of LoRA and QLoRA, instruction fine-tuning a base model is increasingly accessible to more people/organizations.| 
 | [Curated list of the best LLMOps tools for developers](https://github.com/tensorchord/awesome-llmops) | An awesome & curated list of the best LLMOps tools for developers. | 
 | [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning) <h6>_[Additional video](https://www.youtube.com/watch?v=Ynb6X0KZKxY)_</h6> | MLOps tools to scale your production machine learning - This repository contains a curated list of awesome open source libraries that will help you deploy, monitor, version, scale and secure your production machine learning |
+
+
+
 
 ## Whitepapers
 | Sample | Description |
